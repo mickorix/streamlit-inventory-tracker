@@ -171,7 +171,7 @@ def update_data(conn, df, changes):
 
 # Set the title that appears at the top of the page.
 """
-# :shopping_bags: Inventory tracker
+# :shopping_bags: Inventory management
 
 **Welcome to smartiosapp intentory management!**
 This page reads and writes directly from/to our inventory database.
