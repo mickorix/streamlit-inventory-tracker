@@ -9,7 +9,7 @@ import pandas as pd
 
 # Set the title and favicon that appear in the Browser's tab bar.
 st.set_page_config(
-    page_title="Inventory management",
+    page_title="Inventory XX management",
     page_icon=":shopping_bags:",  # This is an emoji shortcode. Could be a URL too.
 )
 
@@ -171,7 +171,7 @@ def update_data(conn, df, changes):
 
 # Set the title that appears at the top of the page.
 """
-# :shopping_bags: Inventory management
+# :shopping_bags: Inventory XX management
 
 **Welcome to smartiosapp intentory management!**
 This page reads and writes directly from/to our inventory database.
